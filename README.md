@@ -3,9 +3,6 @@
 ## About
 UdoxChat is an open-source project aimed at providing a seamless messaging experience. It allows users to communicate in real-time, share files, and engage in group chats while ensuring privacy and security.
 
-TODO: 
-WORK ON README FILE
-
 ## Features
 - [ ] Real-time messaging
 - [ ] User authentication
